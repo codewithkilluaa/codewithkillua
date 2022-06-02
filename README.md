@@ -1,5 +1,8 @@
 <h2>Hi there! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="25" width="25"/></a>
-  My Name is Killua Zoldyck. I'm a programmer and the only thing I know, is that I know nothing.</h2>
+  My Name is Killua Zoldyck. I'm a programmer. I have a strong research background with expertise in Crypto, Blockchain Technology, Web3 and Cybersecurity.</h2>
+  <h3>I'm still a student, an avid follower of technology and a Blockchain Security Expert. I love learning new languages and always looking for something new to challenge myself.
+"It has become appealingly obvious that our technology has exceeded our humanity"  -Albert Einstein.
+  Technology is evolving so fast and there's a lot more to learn. And the only thing I know, is that I know nothing.
   <h3>What is it like being a Programmer?</h3>
   <h4>Well, Being a Programmer means constantly coding, learning, reading, planning, mapping out a new creation, thinking about how to solve a current problem or writing solutions. Coding is fun and i Love it.</h4>
 
@@ -28,7 +31,7 @@ So Keep coding!</p>
     code ();
 }
 </b></pre>
-<h3 align="left">Some stuff about me:</h3>
+<h3 align="left">Some Stuff About Me:</h3>
 
 - 🧠 I always learn a lot more if I **shut up and listen.**
  
@@ -55,6 +58,7 @@ So Keep coding!</p>
 <div> <b>-Cryptography</b></div>
 <div> <b>-Blockchain Security</b></div>
 <div> <b>-Smart Contract</b></div>
+<div> <b>-dApps</b></div>
 <div> <b>-Hyperledger Fabric</b></div>
 <div> <b>-NFT</b></div>
 <div> <b>-DeFi</b></div>
